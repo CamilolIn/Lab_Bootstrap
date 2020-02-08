@@ -1,0 +1,9 @@
+.container{
+    
+    align-content: center;
+}
+
+.card{
+    align-content: center;
+    display: inline-block;
+}
